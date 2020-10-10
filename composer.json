@@ -1,0 +1,16 @@
+{
+  "name": "rocassis/nanolog",
+  "type": "library",
+  "description": "Basic Lib for generate logs of system manually or from exception and errors",
+  "keywords": ["log","logs"],
+  "homepage": "https://github.com/rocassis/",
+  "license": "MIT",
+  "authors": [
+      {
+          "name": "Robert Carneiro de Assis",
+          "email": "rc.assis.job@bol.com.br",
+          "homepage": "http://",
+          "role": "Developer"
+      }
+  ]
+}
