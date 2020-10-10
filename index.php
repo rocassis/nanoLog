@@ -2,8 +2,6 @@
 
 use src\NanoLog;
 
-include 'src/NanoLog.php';
-
 $logFileName = 'log_' . date('d_m_Y') . '.txt';
 $nanoLog = new NanoLog($logFileName);
 
