@@ -12,5 +12,10 @@
           "email": "rc.assis.job@bol.com.br",
           "role": "Developer"
       }
-  ]
+  ],
+  "autoload": {
+    "psr-4": {
+      "rocassis\\nanolog\\": "src/"
+    }
+  }
 }

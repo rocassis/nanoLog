@@ -1,5 +1,6 @@
 <?php
-namespace src;
+
+namespace rocassis\nanolog;
 
 /**
  * This a minimalistic and general prupose log Class.
