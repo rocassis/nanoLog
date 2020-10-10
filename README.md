@@ -2,6 +2,8 @@
 
 To use in your projetc: composer require rocassis/nanolog
 
+Be sure your folder has permission to write files.
+
 Basic Lib for generate logs of system manually or from exception and errors.
 
 You can custom the path and the name of the log file, eg:
