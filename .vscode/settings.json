@@ -1,0 +1,4 @@
+{
+    "php-tdd.enablePHPExtensions": true,
+    "php-tdd.testSubdirectory": "tests/unit"
+}

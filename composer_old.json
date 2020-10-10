@@ -1,0 +1,17 @@
+{
+    "name": "robert/nanolog",
+    "description": "Basic Lib for generate logs of system manually or from exception and errors",
+    "license": "GPLv3",
+    "authors": [
+        {
+            "name": "Robert C de Assis",
+            "email": "rc.assis.job@bol.com.br"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "classmap": [
+            "src/"
+        ]
+    }
+}
