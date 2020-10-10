@@ -1,3 +1,0 @@
-[10/10/2020 11:44:52] Error: Custom exception to generate logs for tests. | Line: 11 | Code: 25874  Trace: #0 {main}
-[10/10/2020 11:44:52] Exception: Custom exception to generate logs for tests. | Line: 11 | Code: 25874  Trace: 
-[10/10/2020 11:44:52] : Custom log message | Line: 11 | Code: 25874  Trace: 
