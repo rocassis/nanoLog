@@ -5,6 +5,7 @@
   "keywords": ["log","logs"],
   "homepage": "https://github.com/rocassis/",
   "license": "MIT",
+  "minimum-stability": "dev",
   "authors": [
       {
           "name": "Robert Carneiro de Assis",
